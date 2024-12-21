@@ -1,6 +1,6 @@
 nek minnit I use htmx
 
-### Why>
+### Why?
 because grug told complexity bad
 complexity very bad
 complexity very very bad
